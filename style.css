@@ -1,0 +1,38 @@
+h1 {background-color: aquamarine;}
+h1 {border-style: groove;
+border-color: rgb(17, 68, 17);}
+h2 {border-style: double;
+border-color: rgb(22, 10, 78);}
+h2 {background-color: gold;}
+h1 {text-align: center;}
+h2 {text-align: center;}
+h3 {text-align: center;}
+body {background-color: rgb(2, 73, 73);}
+h1 {font-size: 300%;
+font-style: italic;}
+h4 {text-align: center;}
+h4 {background-color: darkgoldenrod;}
+img {border-style: dashed;}
+#mulherdeitada {margin-left: 40%;}
+#praia {margin-left: 40%;}
+#mulherdeitada {size-adjust: 200%;}
+#copacabana {border-style: outset;
+margin-left: 40%;
+border-radius: 20px;
+border-width: 12px;}
+
+h3 {border-style: inset;
+margin-left: 30%;
+margin-right: 30%;
+font-size: 200%;
+font-style: oblique;
+border-radius: 14px;
+border-width: 12px;
+background-color: rgb(15, 114, 15);}
+h4 {font-size: 200%;
+    margin-left: 30%;
+    margin-right: 30%;
+border-style: dotted;
+font-style: italic;}
+
+
